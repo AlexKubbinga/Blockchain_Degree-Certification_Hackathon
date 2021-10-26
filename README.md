@@ -13,6 +13,6 @@ Current System:
 
 
 To do:
-Call with LBS administration to see feasibility. ✅
-Build MVP of degree certification platform using NFTs.
-Call with LBS Technical Admin to get idea of Database structure currently used.
+- Call with LBS administration to see feasibility. ✅
+- Build MVP of degree certification platform using NFTs.
+- Call with LBS Technical Admin to get idea of Database structure currently used.
